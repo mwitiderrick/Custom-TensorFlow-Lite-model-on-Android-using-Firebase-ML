@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435386244965",
+    "project_id": "heartbeat-5f73a",
+    "storage_bucket": "heartbeat-5f73a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435386244965:android:fcbc9e8deb5648b6cfcb8c",
+        "android_client_info": {
+          "package_name": "com.namespace.fireml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435386244965-pe380crm558v1v49u10hthrsb40k3d1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBngPwwv5RMuThiXrrNChHtOOSugYuohsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435386244965-pe380crm558v1v49u10hthrsb40k3d1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
